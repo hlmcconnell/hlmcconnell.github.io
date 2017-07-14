@@ -1,11 +1,11 @@
 # Personalize your website info here
-title:            Anew Guy
-tagline:          'Professional Website for Anew Guy'
-description:      'Website and Blog for Anew Guy'
-url:              http://anewguy.github.io
+title:            Heather McConnell
+tagline:          'Professional Website for Heather McConnell'
+description:      'Website and Blog for Heather McConnell'
+url:              http://hlmcconnell.github.io
 author:
-  name:           'Anew Guy'
-  url:            https://twitter.com/anewguy
+  name:           'Heather McConnell'
+  url:            
 
 ## You don't need to modify below this line
 paginate:         5
